@@ -1,2 +1,3 @@
 Git learning
 10/12/2017
+This is the 1st for gitting.
